@@ -34,7 +34,7 @@ Follow the steps below to install the RGB LED Controller library:
 
 4. The library is now ready to be used in your project. To use it, include the `rgb_ledc_controller.h` file in your source code. The ESP-IDF build system will automatically build and link the library.
 
-##Documentatation
+## Documentatation
 
 [Go to Documentation](html/index.html)
 
