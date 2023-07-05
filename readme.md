@@ -40,7 +40,7 @@ Follow the steps below to install the RGB LED Controller library:
 
 ## Contributing
 
-Thank you for your interest in contributing to this project. If you would like to make contributions, please reach out to me [insert your contact information] to discuss your ideas and obtain permission. I appreciate your understanding and cooperation in this matter.
+Thank you for your interest in contributing to this project. If you would like to make contributions, please reach out to me massimodallabona@gmail.com to discuss your ideas and obtain permission. I appreciate your understanding and cooperation in this matter.
 
 ## Donation
 
