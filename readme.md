@@ -25,7 +25,7 @@ Follow the steps below to install the RGB LED Controller library:
 1. First, clone this repository to your local machine. You can do this by navigating to the directory where you want to clone the repository and then using the following command in your terminal: 
 
     ```bash
-    git clone https://github.com/mdb80/rgb-led-controller.git
+    https://github.com/MDB80/rgb_ledc_controller.git
     ```
 
 2. Open your ESP-IDF project in Visual Studio Code.
