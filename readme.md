@@ -2,7 +2,9 @@
 
 This repository contains an implementation of an RGB LED Controller Library, compatible with ESP32 microcontrollers and ESP-IDF version 5.0.2.
 
-The library provides functionality to initialize and control the brightness and color of RGB LEDs through a Pulse Width Modulation (PWM) interface using ESP-IDF's LED Control (LEDC) module.
+The library provides asynchronous functionality to initialize and control the brightness and color of RGB LEDs through a Pulse Width Modulation (PWM) interface using ESP-IDF's LED Control (LEDC) module. It leverages the High-Resolution Timer (ESP Timer) module of ESP-IDF, ensuring precise timing and smooth transitions in the lighting effects.
+
+Developers can easily initialize the library and utilize its functions to control the brightness and color of RGB LEDs with precision. The library's asynchronous nature, combined with the High-Resolution Timer (ESP Timer), allows for efficient and accurate handling of LED control operations, enhancing the overall performance and responsiveness of ESP32 projects.
 
 ## Features
 
@@ -11,12 +13,12 @@ Here's what the RGB LED Controller Library offers:
 - **Independent LED Control**: Each RGB LED can be controlled independently, which allows for complex lighting effects across multiple LEDs. Please note that the maximum number of LEDs that can be controlled simultaneously is limited to 2 due to the LEDC module having only 8 channels available.
 - **Color and Brightness Control**: The library provides precise control over the color (through RGB values) and brightness (through PWM signal) of each LED.
 - **Various Lighting Effects**: Several lighting effects are supported including blinking, color transitions, and "breathing" effects (gradual brightening and dimming). Each effect comes with customizable timing parameters to fit a variety of application needs.
-- **Easy-to-Use API**: The functions provided by the library have a straightforward interface, making it easy to add sophisticated LED control to your ESP32 projects.
+- **Easy-to-Use API**: The functions provided by the library have a straightforward interface, making it easy to add sophisticated LED control to your ESP32 projects. The API functions are designed to be asynchronous, utilizing the high precision timer module of ESP-IDF, ensuring precise timing and smooth transitions in the lighting effects.
 
 
 ## License
 
-This software is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/. You may not use, distribute, modify, or sell this software without the express permission of the author. For more information, please contact the author at massimodallabona@gmail.com.
+This software is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/. You may not use, distribute, modify, or sell this software without the express permission of the author. For more information, please contact the author [here](mailto:massimodallabona@gmail.com).
 
 ## Installation
 
@@ -34,13 +36,16 @@ Follow the steps below to install the RGB LED Controller library:
 
 4. The library is now ready to be used in your project. To use it, include the `rgb_ledc_controller.h` file in your source code. The ESP-IDF build system will automatically build and link the library.
 
-## Documentatation
+## Documentation
 
-[Go to Documentation](html/index.html)
+Technical documentation for the RGB LED Controller Library is available [here](html/index.html). It provides detailed information about the library's usage, API reference, and examples.
+
+We encourage you to refer to the documentation for a better understanding of the library's capabilities and how to integrate it into your ESP32 projects.
+
 
 ## Contributing
 
-Thank you for your interest in contributing to this project. If you would like to make contributions, please reach out to me massimodallabona@gmail.com to discuss your ideas and obtain permission. I appreciate your understanding and cooperation in this matter.
+Thank you for your interest in contributing to this project. If you would like to make contributions, please reach out to me [here](mailto:massimodallabona@gmail.com) to discuss your ideas and obtain permission. I appreciate your understanding and cooperation in this matter.
 
 ## Donation
 
