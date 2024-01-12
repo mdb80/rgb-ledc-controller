@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md_readme.html"><param name="Name" value="RGB LED Controller Library for ESP32 (ESP-IDF)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structrgb__led__blink__t.html"><param name="Name" value="rgb_led_blink_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structrgb__led__breath__t.html"><param name="Name" value="rgb_led_breath_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a720b99f1dd6817dc7dc46910ec072ea8"><param name="Name" value="rgb_led_deinit(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a720b99f1dd6817dc7dc46910ec072ea8"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a720b99f1dd6817dc7dc46910ec072ea8"><param name="Name" value="rgb_led_deinit(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a720b99f1dd6817dc7dc46910ec072ea8"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structrgb__led__effects__t.html"><param name="Name" value="rgb_led_effects_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a60a7dd657dd7d5e38c3a5c4cde865895"><param name="Name" value="rgb_led_init(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a60a7dd657dd7d5e38c3a5c4cde865895"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a60a7dd657dd7d5e38c3a5c4cde865895"><param name="Name" value="rgb_led_init(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a60a7dd657dd7d5e38c3a5c4cde865895"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a1fa5c599a3b8b8af55c7016b11f91e33"><param name="Name" value="rgb_led_new(gpio_num_t red_pin, gpio_num_t green_pin, gpio_num_t blue_pin, ledc_channel_t red_ch, ledc_channel_t green_ch, ledc_channel_t blue_ch)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a1fa5c599a3b8b8af55c7016b11f91e33"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a1fa5c599a3b8b8af55c7016b11f91e33"><param name="Name" value="rgb_led_new(gpio_num_t red_pin, gpio_num_t green_pin, gpio_num_t blue_pin, ledc_channel_t red_ch, ledc_channel_t green_ch, ledc_channel_t blue_ch)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a1fa5c599a3b8b8af55c7016b11f91e33"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a5e05fccc4050240e6e96d108b9c72f99"><param name="Name" value="rgb_led_set_color(rgb_led_t *rgb_led, uint32_t color)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a5e05fccc4050240e6e96d108b9c72f99"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a5e05fccc4050240e6e96d108b9c72f99"><param name="Name" value="rgb_led_set_color(rgb_led_t *rgb_led, uint32_t color)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a5e05fccc4050240e6e96d108b9c72f99"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a103a50617970d8b886f47ebe810bc598"><param name="Name" value="rgb_led_start_blink_effect(rgb_led_t *rgb_led, uint32_t color, uint8_t pulse_count, uint32_t time_on, uint32_t time_off, uint32_t time_out)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a103a50617970d8b886f47ebe810bc598"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a103a50617970d8b886f47ebe810bc598"><param name="Name" value="rgb_led_start_blink_effect(rgb_led_t *rgb_led, uint32_t color, uint8_t pulse_count, uint32_t time_on, uint32_t time_off, uint32_t time_out)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a103a50617970d8b886f47ebe810bc598"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#abe586b61d180019896278a0687d0ef1e"><param name="Name" value="rgb_led_start_breath_effect(rgb_led_t *rgb_led, uint32_t color, uint16_t duration_ms)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#abe586b61d180019896278a0687d0ef1e"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#abe586b61d180019896278a0687d0ef1e"><param name="Name" value="rgb_led_start_breath_effect(rgb_led_t *rgb_led, uint32_t color, uint16_t duration_ms)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#abe586b61d180019896278a0687d0ef1e"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a7ddae29edb1a94d42b81afefe848ef56"><param name="Name" value="rgb_led_start_transition_effect(rgb_led_t *rgb_led, uint32_t current_color, uint32_t new_color, uint32_t effect_duration)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a7ddae29edb1a94d42b81afefe848ef56"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a7ddae29edb1a94d42b81afefe848ef56"><param name="Name" value="rgb_led_start_transition_effect(rgb_led_t *rgb_led, uint32_t current_color, uint32_t new_color, uint32_t effect_duration)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a7ddae29edb1a94d42b81afefe848ef56"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a72a8d57f971ef0da8b82ce0547a03af2"><param name="Name" value="rgb_led_stop_any_effect(rgb_led_t *rgb_led)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a72a8d57f971ef0da8b82ce0547a03af2"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a72a8d57f971ef0da8b82ce0547a03af2"><param name="Name" value="rgb_led_stop_any_effect(rgb_led_t *rgb_led)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a72a8d57f971ef0da8b82ce0547a03af2"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#afd168bdd7edfd7f79037319898f339a3"><param name="Name" value="rgb_led_stop_blink_effect(rgb_led_t *led)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a5bbc8915358bb5f297c52a8674e295aa"><param name="Name" value="rgb_led_stop_breath_effect(rgb_led_t *led)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a842ab52eb8f3e10019023cb3a67b90b8"><param name="Name" value="rgb_led_stop_transition_effect(rgb_led_t *led)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structrgb__led__t.html"><param name="Name" value="rgb_led_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structrgb__led__transition__t.html"><param name="Name" value="rgb_led_transition_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a720b99f1dd6817dc7dc46910ec072ea8"><param name="Name" value="rgb_led_deinit(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a60a7dd657dd7d5e38c3a5c4cde865895"><param name="Name" value="rgb_led_init(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a1fa5c599a3b8b8af55c7016b11f91e33"><param name="Name" value="rgb_led_new(gpio_num_t red_pin, gpio_num_t green_pin, gpio_num_t blue_pin, ledc_channel_t red_ch, ledc_channel_t green_ch, ledc_channel_t blue_ch)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a5e05fccc4050240e6e96d108b9c72f99"><param name="Name" value="rgb_led_set_color(rgb_led_t *rgb_led, uint32_t color)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a103a50617970d8b886f47ebe810bc598"><param name="Name" value="rgb_led_start_blink_effect(rgb_led_t *rgb_led, uint32_t color, uint8_t pulse_count, uint32_t time_on, uint32_t time_off, uint32_t time_out)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#abe586b61d180019896278a0687d0ef1e"><param name="Name" value="rgb_led_start_breath_effect(rgb_led_t *rgb_led, uint32_t color, uint16_t duration_ms)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a7ddae29edb1a94d42b81afefe848ef56"><param name="Name" value="rgb_led_start_transition_effect(rgb_led_t *rgb_led, uint32_t current_color, uint32_t new_color, uint32_t effect_duration)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a72a8d57f971ef0da8b82ce0547a03af2"><param name="Name" value="rgb_led_stop_any_effect(rgb_led_t *rgb_led)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#afd168bdd7edfd7f79037319898f339a3"><param name="Name" value="rgb_led_stop_blink_effect(rgb_led_t *led)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a5bbc8915358bb5f297c52a8674e295aa"><param name="Name" value="rgb_led_stop_breath_effect(rgb_led_t *led)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html"><param name="Name" value="rgb_ledc_controller.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8c.html#a842ab52eb8f3e10019023cb3a67b90b8"><param name="Name" value="rgb_led_stop_transition_effect(rgb_led_t *led)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a720b99f1dd6817dc7dc46910ec072ea8"><param name="Name" value="rgb_led_deinit(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a60a7dd657dd7d5e38c3a5c4cde865895"><param name="Name" value="rgb_led_init(rgb_led_t *rgb_led_cfg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a1fa5c599a3b8b8af55c7016b11f91e33"><param name="Name" value="rgb_led_new(gpio_num_t red_pin, gpio_num_t green_pin, gpio_num_t blue_pin, ledc_channel_t red_ch, ledc_channel_t green_ch, ledc_channel_t blue_ch)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a5e05fccc4050240e6e96d108b9c72f99"><param name="Name" value="rgb_led_set_color(rgb_led_t *rgb_led, uint32_t color)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a103a50617970d8b886f47ebe810bc598"><param name="Name" value="rgb_led_start_blink_effect(rgb_led_t *rgb_led, uint32_t color, uint8_t pulse_count, uint32_t time_on, uint32_t time_off, uint32_t time_out)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#abe586b61d180019896278a0687d0ef1e"><param name="Name" value="rgb_led_start_breath_effect(rgb_led_t *rgb_led, uint32_t color, uint16_t duration_ms)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a7ddae29edb1a94d42b81afefe848ef56"><param name="Name" value="rgb_led_start_transition_effect(rgb_led_t *rgb_led, uint32_t current_color, uint32_t new_color, uint32_t effect_duration)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html"><param name="Name" value="rgb_ledc_controller.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="rgb__ledc__controller_8h.html#a72a8d57f971ef0da8b82ce0547a03af2"><param name="Name" value="rgb_led_stop_any_effect(rgb_led_t *rgb_led)"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
